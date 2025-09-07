@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /var/folders/q7/44252mbn7q307txtp4yg3rqh0000gn/T/aniket-storage
